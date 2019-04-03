@@ -1,0 +1,6 @@
+File2.txt
+My Favorite classes to teach
+Stats 131
+Stats 102A
+Stats 102B
+Stats 102C
