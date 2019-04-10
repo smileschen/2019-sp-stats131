@@ -5,5 +5,5 @@ Public repository for Stats 131 Spring Quarter 2019 at UCLA
 
 email: mileschen@stat.ucla.edu
 
-Office Hours: Wednesdays at 2-2:50PM!!!!
+**Office Hours: Wednesdays at 2-2:50PM!!!!
 
