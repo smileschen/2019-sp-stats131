@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2019-sp-stats131
 Public repository for Stats 131 Spring Quarter 2019 at UCLA
 
@@ -19,3 +20,6 @@ Office Hours: Wednesdays at 2-2:50PM!!
 - Week 2 Mon: https://youtu.be/4BYnRZoqbgg
 - Week 2 Wed: https://youtu.be/e-NP95S8scg
 >>>>>>> upstream/master
+=======
+STAT 131
+>>>>>>> 87cd4b93b26936fdf8609de4f3201e19e6b94587
