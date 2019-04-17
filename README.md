@@ -9,7 +9,7 @@ email: mileschen@stat.ucla.edu
 **Office Hours: Wednesdays at 2-2:50PM!!!!
 
 =======
-Office Hours: Wednesdays at 2-2:50PM
+Office Hours: Wednesdays at 2-2:50PM!!
 
 ## Lectures
 
