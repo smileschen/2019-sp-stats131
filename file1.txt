@@ -5,3 +5,8 @@ My favorite days of the week:
 2. Saturday
 3. Friday
 4. Wednesday
+5. Thursday
+6. Tuesday
+7. Monday
+
+8. holidays?
