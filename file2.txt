@@ -8,3 +8,6 @@ Stats 102C
 
 Maybe Stats 101C and Stats 101A 
 Changes were made to file2!
+
+proposed changes:
+Let's add a line here
