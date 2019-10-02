@@ -11,3 +11,6 @@ Changes were made to file2!
 
 Joe proposes some changes
 we add a different line here.
+
+proposed changes:
+Let's add a line here
